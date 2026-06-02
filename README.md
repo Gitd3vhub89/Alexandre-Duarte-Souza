@@ -104,7 +104,7 @@ Formado em **Redes de Telecomunicações** pelo Instituto Federal de Goiás (IFG
 
 ---
 
-## Cursos
+## Cursos e Treinamentos
 
 ### Concluídos
 
