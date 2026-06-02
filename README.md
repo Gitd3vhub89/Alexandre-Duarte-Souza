@@ -8,7 +8,7 @@
 
 Profissional com mais de 7 anos de experiência como **Analista de Validação** na Soluti Certificação Digital. Em transição de carreira para as áreas de **OSINT**, **Investigação Digital** e **Testes de Software (QA)**.
 
-📍 Goiânia, GO  
+📍 Aparecida de Goiânia, GO  
 🌐 Disponível para Remoto / Híbrido  
 📧 alexandregyn02@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/alexandre-duarte-souza-0259a4b0/)
@@ -30,7 +30,7 @@ Profissional com mais de 7 anos de experiência como **Analista de Validação**
 
 ## Sobre Mim
 
-Formado em **Tecnologia em Telecomunicações** pelo Instituto Federal de Goiás (IFG), venho me dedicando ao estudo e prática de **OSINT**, Computação Forense e Testes de Software por meio de cursos especializados, laboratórios e projetos práticos. Busco uma oportunidade profissional nessas áreas — em posições Júnior ou Trainee, nos regimes **CLT**, **PJ** ou **Freelancer** — com disposição para aprender na prática, contribuir com dedicação e adquirir experiência profissional nas áreas.
+Formado em **Redes de Telecomunicações** pelo Instituto Federal de Goiás (IFG), venho me dedicando ao estudo e prática de **OSINT**, Computação Forense e Testes de Software por meio de cursos especializados, laboratórios e projetos práticos. Busco uma oportunidade profissional nessas áreas — em posições Júnior ou Trainee, nos regimes **CLT**, **PJ** ou **Freelancer** — com disposição para aprender na prática, contribuir com dedicação e adquirir experiência profissional nas áreas.
 
 ---
 
