@@ -30,7 +30,7 @@ Profissional com mais de 7 anos de experiência como **Analista de Validação**
 
 ## Sobre Mim
 
-Formado em **Tecnologia em Telecomunicações** pelo Instituto Federal de Goiás (IFG), venho me dedicando ao estudo e prática de **OSINT**, Computação Forense e Testes de Software por meio de cursos especializados, laboratórios e projetos práticos. Busco uma oportunidade profissional nessas áreas — em posições Júnior, Trainee ou Freelancer, nos regimes **CLT**, **PJ** ou **Freelancer** — com disposição para aprender na prática, contribuir com dedicação e adquirir experiência profissional nas áreas.
+Formado em **Tecnologia em Telecomunicações** pelo Instituto Federal de Goiás (IFG), venho me dedicando ao estudo e prática de **OSINT**, Computação Forense e Testes de Software por meio de cursos especializados, laboratórios e projetos práticos. Busco uma oportunidade profissional nessas áreas — em posições Júnior ou Trainee, nos regimes **CLT**, **PJ** ou **Freelancer** — com disposição para aprender na prática, contribuir com dedicação e adquirir experiência profissional nas áreas.
 
 ---
 
@@ -108,23 +108,25 @@ Formado em **Tecnologia em Telecomunicações** pelo Instituto Federal de Goiás
 
 ### Concluídos
 
-- **Workshop: Testes de Software e QA** – Mentorama (2021)
-- **OSINT Starter** – Academia de Forense Digital
+- **Testes de Software e QA** – Workshop Mentorama
+- **DFIR Starter** – Academia de Forense Digital
 - **Perito Forense Digital** – Academia de Forense Digital
 - **Análise de Malware Starter** – Academia de Forense Digital
 - **Threat Intelligence Starter** – Academia de Forense Digital
 - **Mobile Forensics Starter** – Academia de Forense Digital
 - **Fundamentos de Cibersegurança** – Academia de Forense Digital
-- **LGPD Experience** – Workshop LawQuest (2021)
+- **LGPD Experience** – Workshop LawQuest
 - **Análise de Ataque Cibernético** e **Análise de Defesa Cibernética** – IGTI / XP Educação
 - **Programador de Software Iniciante** – IGTI / XP Educação
 - **Cybersecurity Essentials** – Cisco Networking Academy
+- **Segurança da Informação** – Fundação Bradesco
 
 ### Em Andamento
 
 - **Fundamentos de Computação Forense** – Academia de Forense Digital
 - **Computação Forense** – Academia de Forense Digital
 - **Autopsy - do Básico ao Avançado** – Academia de Forense Digital
+- **Testes Automáticos + Curso COMPLETO de Teste de Software** - Udemy
 
 ---
 
