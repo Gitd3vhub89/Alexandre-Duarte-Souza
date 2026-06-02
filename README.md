@@ -100,7 +100,7 @@ Formado em **Tecnologia em Telecomunicações** pelo Instituto Federal de Goiás
 
 ## Formação Acadêmica
 
-- **Tecnologia em Telecomunicações** – Instituto Federal de Goiás (IFG)
+- **Tecnólogo em Redes de Telecomunicações** – Instituto Federal de Goiás (IFG)
 
 ---
 
