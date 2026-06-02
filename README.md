@@ -127,6 +127,9 @@ Formado em **Redes de Telecomunicações** pelo Instituto Federal de Goiás (IFG
 - **Computação Forense** – Academia de Forense Digital
 - **Autopsy - do Básico ao Avançado** – Academia de Forense Digital
 - **Testes Automáticos + Curso Completo de Teste de Software** - Udemy
+- **OSINT: Open-Source Intelligence** - Udemy
+
+
 
 ---
 
