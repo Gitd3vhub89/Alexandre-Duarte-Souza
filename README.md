@@ -126,7 +126,7 @@ Formado em **Redes de Telecomunicações** pelo Instituto Federal de Goiás (IFG
 - **Fundamentos de Computação Forense** – Academia de Forense Digital
 - **Computação Forense** – Academia de Forense Digital
 - **Autopsy - do Básico ao Avançado** – Academia de Forense Digital
-- **Testes Automáticos + Curso COMPLETO de Teste de Software** - Udemy
+- **Testes Automáticos + Curso Completo de Teste de Software** - Udemy
 
 ---
 
