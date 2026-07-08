@@ -6,7 +6,7 @@
 
 **Aspirante a Investigador Digital | OSINT | QA Tester (Testes de Software)**
 
-Profissional com mais de 7 anos de experiência como **Analista de Validação** na Soluti Certificação Digital. Em transição de carreira para as áreas de **OSINT**, **Investigação Digital** e **Testes de Software (QA)**.
+Profissional com 8 anos de experiência como **Analista de Validação** na Soluti Certificação Digital. Em transição de carreira para as áreas de **OSINT**, **Investigação Digital** e **Testes de Software (QA)**.
 
 📍 Aparecida de Goiânia, GO  
 🌐 Disponível para Remoto / Híbrido  
